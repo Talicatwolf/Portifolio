@@ -1,3 +1,5 @@
+#Lista de exercícios simples resolvida
+
 texto = 'pratica 1'
 calculo = 9
 dinheiro = float(9.99)
